@@ -1,6 +1,6 @@
 ---
-title: "Bienvenida a mi blog siempre"
+title: "Bienvenida a mi blog"
 date: 2019-01-20
 ---
 
-Hello there_, ***I am*** strong enougth to #live with out you *babe!*
+Hello there, ***I am*** strong enougth to #live with out you *babe!*
